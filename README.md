@@ -93,7 +93,7 @@ make
 ### 5. Run the following command (to run the project)
 
 ```bash
-make ./Main
+./Main
 ```
 
 ### 6. After Using The Project Run The Following Command (to clean build artifacts)
